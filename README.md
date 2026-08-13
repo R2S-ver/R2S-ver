@@ -1,16 +1,20 @@
-## Hi there 👋
+# R2S Studio
 
-<!--
-**R2S-ver/R2S-ver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Industrial Designer & Maker** · 
 
-Here are some ideas to get you started:
+Bridging TECH and AESTHETIC — pairing artistic intuition with a research-driven mindset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+工业设计 × 嵌入式系统 × 创意制造
+
+## Focus
+
+- **Industrial Design**
+- **Embedded Systems**
+- **Electronics** 
+- **Visual Art**
+
+## Links
+
+- Portfolio — https://r2s-site-025.pages.dev/
+- Pixiv (RrSuika) — https://www.pixiv.net/users/71884225
+- Email — ranrsuika@gmail.com
