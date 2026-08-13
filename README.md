@@ -6,6 +6,10 @@ Bridging TECH and AESTHETIC — pairing artistic intuition with a research-drive
 
 工业设计 × 嵌入式系统 × 美学设计
 
+<p align="center">
+  <img src="./Suika.gif" alt="Suika" width="213" />
+</p>
+
 ## Focus
 
 - **Industrial Design**
