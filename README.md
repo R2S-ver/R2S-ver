@@ -5,7 +5,6 @@
 # R2S Studio
 
 **Industrial Designer & Maker** · 
-
 Bridging TECH and AESTHETIC — pairing artistic intuition with a research-driven mindset.
 
 工业设计 × 嵌入式系统 × 美学设计
