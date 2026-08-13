@@ -15,6 +15,5 @@ Bridging TECH and AESTHETIC — pairing artistic intuition with a research-drive
 
 ## Links
 
-- Portfolio — https://r2s-site-025.pages.dev/
-- Pixiv (RrSuika) — https://www.pixiv.net/users/71884225
-- Email — ranrsuika@gmail.com
+- [Portfolio](https://r2s-site-025.pages.dev/)
+- [Pixiv](https://www.pixiv.net/users/71884225)
