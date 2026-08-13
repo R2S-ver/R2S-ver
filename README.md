@@ -4,7 +4,7 @@
 
 Bridging TECH and AESTHETIC — pairing artistic intuition with a research-driven mindset.
 
-工业设计 × 嵌入式系统 × 创意制造
+工业设计 × 嵌入式系统 × 美学设计
 
 ## Focus
 
