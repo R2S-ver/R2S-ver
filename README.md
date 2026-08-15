@@ -20,5 +20,5 @@ Bridging TECH and AESTHETIC
 
 ## Links
 
-- [Portfolio](https://r2s-site-025.pages.dev/)
+- [Portfolio](https://rrsuika-studio.pages.dev/)
 - [Pixiv](https://www.pixiv.net/users/71884225)
