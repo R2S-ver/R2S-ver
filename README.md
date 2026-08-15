@@ -2,7 +2,7 @@
   <img src="./Suika.gif" alt="Suika" width="50" /><img src="./Suika.gif" alt="Suika" width="50" /><img src="./Suika.gif" alt="Suika" width="50" />
 </p>
 
-# R2S Studio
+# RrSuika Studio
 
 **Industrial Designer & Maker** · 
 Bridging TECH and AESTHETIC
